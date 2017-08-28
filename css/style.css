@@ -1,0 +1,30 @@
+body {
+	padding-top: 70px;
+}
+#header-break {
+	display: block;
+	position: relative;
+}
+#buttons-container {
+	position: relative;
+}
+#buttons-container .btn {
+	margin-top: 10px;
+}
+.navbar-text {
+	font-weight: bolder;
+}
+.gallery .col-xs-12 {
+	margin-top: 15px;
+}
+hr {
+	border-top: 5px solid black;
+}
+footer {
+	margin-top: 40px;
+}
+@media screen and (max-width: 768px) {
+  .panel {
+		margin-top: 40px;
+  }
+}
