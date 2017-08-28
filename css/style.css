@@ -3,16 +3,17 @@ body {
 }
 #header-break {
 	display: block;
-	position: relative;
+	/*position: relative;*/
 }
 #buttons-container {
-	position: relative;
+	/*position: relative;*/
 }
 #buttons-container .btn {
 	margin-top: 10px;
+	margin-left: 5px;
 }
 .navbar-text {
-	font-weight: bolder;
+	font-weight: bold;
 }
 .gallery .col-xs-12 {
 	margin-top: 15px;
